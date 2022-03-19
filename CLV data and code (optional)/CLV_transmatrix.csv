@@ -1,0 +1,5 @@
+,Active customers,Warm customers,Cold customers,Lost customers
+Active customers,75,25,0,0
+Warm customers,30,0,70,0
+Cold customers,8,0,0,92
+Lost customers,0,0,0,100
